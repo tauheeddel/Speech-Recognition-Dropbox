@@ -1,0 +1,30 @@
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.exe
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.exe
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\tkhanmo\Downloads\StartingWithSpeechRecognition\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.exe
+C:\Users\tkhanmo\Downloads\StartingWithSpeechRecognition\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\tkhanmo\Downloads\StartingWithSpeechRecognition\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.exe
+C:\Users\tkhanmo\Downloads\StartingWithSpeechRecognition\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\tkhanmo\Downloads\StartingWithSpeechRecognition\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.csprojResolveAssemblyReference.cache
+C:\Users\tkhanmo\Dropbox\Tauheed_Research\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.exe
+C:\Users\tkhanmo\Dropbox\Tauheed_Research\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\tkhanmo\Dropbox\Tauheed_Research\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.exe
+C:\Users\tkhanmo\Dropbox\Tauheed_Research\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\tkhanmo\Dropbox\Tauheed_Research\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Tauheed\Dropbox\Tauheed_Research\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.exe
+C:\Users\Tauheed\Dropbox\Tauheed_Research\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\Tauheed\Dropbox\Tauheed_Research\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Tauheed\Dropbox\Tauheed_Research\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.exe
+C:\Users\Tauheed\Dropbox\Tauheed_Research\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\Tauheed\Dropbox\Tauheed_Research\001 MyoDuino exe + myo-sdk-win-0.9.0 - Lab (Working Copy)\01 Dev\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.exe
+C:\Users\Tauheed\Dropbox\Tauheed_Research\001 MyoDuino exe + myo-sdk-win-0.9.0 - Lab (Working Copy)\01 Dev\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\Tauheed\Dropbox\Tauheed_Research\001 MyoDuino exe + myo-sdk-win-0.9.0 - Lab (Working Copy)\01 Dev\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Tauheed\Dropbox\Tauheed_Research\001 MyoDuino exe + myo-sdk-win-0.9.0 - Lab (Working Copy)\01 Dev\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.exe
+C:\Users\Tauheed\Dropbox\Tauheed_Research\001 MyoDuino exe + myo-sdk-win-0.9.0 - Lab (Working Copy)\01 Dev\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\tkhanmo\Dropbox\Tauheed_Research\001 MyoDuino exe + myo-sdk-win-0.9.0 - Lab (Working Copy)\01 Dev\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.exe
+C:\Users\tkhanmo\Dropbox\Tauheed_Research\001 MyoDuino exe + myo-sdk-win-0.9.0 - Lab (Working Copy)\01 Dev\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\tkhanmo\Dropbox\Tauheed_Research\001 MyoDuino exe + myo-sdk-win-0.9.0 - Lab (Working Copy)\01 Dev\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.exe
+C:\Users\tkhanmo\Dropbox\Tauheed_Research\001 MyoDuino exe + myo-sdk-win-0.9.0 - Lab (Working Copy)\01 Dev\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\tkhanmo\Dropbox\Tauheed_Research\001 MyoDuino exe + myo-sdk-win-0.9.0 - Lab (Working Copy)\01 Dev\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.csprojResolveAssemblyReference.cache
