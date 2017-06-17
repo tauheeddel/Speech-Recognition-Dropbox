@@ -28,3 +28,8 @@ C:\Users\tkhanmo\Dropbox\Tauheed_Research\001 MyoDuino exe + myo-sdk-win-0.9.0 -
 C:\Users\tkhanmo\Dropbox\Tauheed_Research\001 MyoDuino exe + myo-sdk-win-0.9.0 - Lab (Working Copy)\01 Dev\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.exe
 C:\Users\tkhanmo\Dropbox\Tauheed_Research\001 MyoDuino exe + myo-sdk-win-0.9.0 - Lab (Working Copy)\01 Dev\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.pdb
 C:\Users\tkhanmo\Dropbox\Tauheed_Research\001 MyoDuino exe + myo-sdk-win-0.9.0 - Lab (Working Copy)\01 Dev\StartingWithSpeechRecognition - Microsoft\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.csprojResolveAssemblyReference.cache
+C:\Users\tkhanmo\Dropbox\Tauheed_Research\001 GitHub\Speech-Recognition-Dropbox\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.exe
+C:\Users\tkhanmo\Dropbox\Tauheed_Research\001 GitHub\Speech-Recognition-Dropbox\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\tkhanmo\Dropbox\Tauheed_Research\001 GitHub\Speech-Recognition-Dropbox\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.exe
+C:\Users\tkhanmo\Dropbox\Tauheed_Research\001 GitHub\Speech-Recognition-Dropbox\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\tkhanmo\Dropbox\Tauheed_Research\001 GitHub\Speech-Recognition-Dropbox\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.csprojResolveAssemblyReference.cache
