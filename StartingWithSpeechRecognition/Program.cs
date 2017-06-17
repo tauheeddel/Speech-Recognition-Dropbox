@@ -78,7 +78,7 @@ namespace StartingWithSpeechRecognition
             }
 
 
-            Console.WriteLine("You said: " + e.Result.Text);
+            //Console.WriteLine("You said: " + e.Result.Text);
             String str = e.Result.Text;
             Stream stm = tcpclnt.GetStream();
 
@@ -224,6 +224,7 @@ namespace StartingWithSpeechRecognition
             {
                 ba = asen.GetBytes("Move Gripper");
                 Console.WriteLine("Transmitting.....");
+                Console.WriteLine("You said: Move Gripper");
                 stm.Write(ba, 0, ba.Length);
             }
 
